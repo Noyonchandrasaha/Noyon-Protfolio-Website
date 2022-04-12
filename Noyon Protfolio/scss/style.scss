@@ -1,0 +1,17 @@
+@use "custom" as *;
+//IMPORT SECTION
+@use "sections/navbar";
+@use "sections/intro-section";
+@use "sections/companies";
+@use "sections/services";
+@use "sections/faq";
+@use "sections/footer";
+@use "sections/get-started";
+@use "sections/porfolilo";
+@use "sections/testimornials";
+
+//IMPORT COMPONENTS
+@use "components/animation";
+@use "components/button";
+@use "components/mixins";
+@use "components/typography";
